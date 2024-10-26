@@ -2,13 +2,12 @@
 
 ![Dynamic Titles](https://your_gif_link_here.com) <!-- رابط صورة GIF متحركة تتبدل بين AI Systems Developer | Python Expert | Machine Learning & Deep Learning Engineer | LLM Developer -->
 
-**Artificial Intelligence Enthusiast**  
 Fresh graduate with a Bachelor's Degree in Artificial Intelligence from the University of Jeddah. Passionate about Machine Learning, Deep Learning, and NLP with hands-on experience in academic projects and internships, especially with LLMs and LangChain frameworks.
 
 📫 **Get in touch:** [alharbi13nada@gmail.com](mailto:alharbi13nada@gmail.com)  
 🔗 **LinkedIn:** [Nada Alharbi](https://www.linkedin.com/in/nada-alharbii-/)
 
----
+
 
 ### Skills:
 <p align="center">
@@ -19,7 +18,6 @@ Fresh graduate with a Bachelor's Degree in Artificial Intelligence from the Univ
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
----
 
 ### Projects:
 - **Arabic Chat Guard** - Real-time abusive language detection in Arabic.
