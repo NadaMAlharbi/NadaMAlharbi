@@ -2,11 +2,10 @@
 
 **AI Systems Developer**
 
-Fresh graduate with a Bachelor's Degree in Artificial Intelligence from the University of Jeddah. Passionate about Machine Learning, Deep Learning, and NLP with hands-on experience in academic projects and internships, especially with LLMs and LangChain frameworks.
+A recent graduate with a Bachelor's Degree in Artificial Intelligence from the University of Jeddah, with a strong passion for Machine Learning, Deep Learning, and Natural Language Processing (NLP). Recently delved into large language models (LLMs) and quickly gained proficiency, particularly with the LangChain framework for advanced AI solutions.
 
 📫 **Get in touch:** [alharbi13nada@gmail.com](mailto:alharbi13nada@gmail.com)  
 🔗 **LinkedIn:** [Nada Alharbi](https://www.linkedin.com/in/nada-alharbii-/)
-
 
 ### Skills:
 <p align="center">
